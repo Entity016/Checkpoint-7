@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    background-color: blueviolet;
+}
+
+.title{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    color: aquamarine
+}
+
+.subtitle{
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 30px;
+    color: lightcoral;
+    margin-left: 30px;
+}
+
+.text{
+    font-size: 1.2rem;
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: lightgray;
+    margin-left: 50px;
+}
+
+.list{
+    font-size: 1.2rem;
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: lightgreen;
+    margin-left: 20px;
+}
+
+.list img{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#conditional_example{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    width: 500px;
+    height: 300px;
+}
+
+#normal_conditional{
+    margin-left: 50px;
+}
+
+#operador_ternario{
+    margin-left: 50px;
+}
+
+#function_list{
+    font-size: 1.2rem;
+    text-align: left;
+    margin-top: 10px;
+    color: lightgray;
+    margin-left: 50px;
+}
+
+
